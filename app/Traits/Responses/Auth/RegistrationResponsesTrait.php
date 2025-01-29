@@ -4,6 +4,10 @@ namespace App\Traits\Responses\Auth;
 
 use Symfony\Component\HttpFoundation\Response;
 
+/**
+ * Class RegistrationResponsesTrait
+ * @package App\Traits\Responses\Auth\RegistrationResponsesTrait
+ */
 trait RegistrationResponsesTrait
 {
     /**
